@@ -1,5 +1,5 @@
 # Extjs-Theme-Spotless
-Extjs-Theme-Spotless from Ext.NET
+Extjs-Theme-Spotless File from Ext.NET NuGet Package.
 
 ## Usage
 
